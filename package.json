@@ -28,8 +28,8 @@
     "@svgdotjs/svg.js": "^3.0.16"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^2.21.0",
-    "@typescript-eslint/parser": "^2.21.0",
+    "@typescript-eslint/eslint-plugin": "^2.22.0",
+    "@typescript-eslint/parser": "^2.22.0",
     "cross-env": "^7.0.0",
     "eslint": "^6.8.0",
     "eslint-config-standard": "^14.1.0",
@@ -40,6 +40,6 @@
     "eslint-plugin-simple-import-sort": "^5.0.1",
     "eslint-plugin-standard": "^4.0.1",
     "parcel-bundler": "^1.12.4",
-    "typescript": "^3.8.2"
+    "typescript": "^3.8.3"
   }
 }
